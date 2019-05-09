@@ -1,0 +1,6 @@
+
+jwt:
+  secret: ThisIsASecretForJWTGeneration
+
+logging:
+  jwtexample: DEBUG
